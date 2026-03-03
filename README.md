@@ -2,14 +2,14 @@
 
 
 <h3 align="center">hello there and wellcome at my github!</h3>
-<p align="center"> I am Endless or Eduardo, im a T.I student, programmer and future Dev! </p>
+<p align="center"> I am Andye or Eduardo, im a T.I student, programmer and Q/A! </p>
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
  
 <p> 
-    I am a Brazilian developer and programmer, currently focused on Java and JavaScript. I have a keen interest in cybersecurity, digital marketing, and Linux operating systems. My skills also include HTML5, CSS3, and JavaScript, along with a strong background in quality assurance. I am fluent in Portuguese and have a good English or OK, i don`t know. Thank you for visiting my profile!
+    I am a Brazilian developer and programmer, currently focused on Java and JavaScript. I have a keen interest in cybersecurity, digital marketing, and Linux operating systems. My skills also include HTML5, CSS3, and JavaScript, along with a strong background in quality assurance. I am fluent in Portuguese and have a good English, now starting in russian too! Thank you for visiting my profile!
 </p>
 
 ## Tool and tech:
@@ -32,7 +32,7 @@
 </div>
 
 ## Bio:
-#### Im a brasilian devoloper and programmer of JAVA and JS;
+#### Im a brasilian JAVA developer and network;
 #### CyberSecurity;
 #### Digital market;
 #### Linux and other OS;
